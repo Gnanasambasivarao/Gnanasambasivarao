@@ -10,7 +10,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gnanasambasivarao-thota-365815314/">
+  <a href="https://www.linkedin.com/in/gnanasambasivarao-thota-365815314/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   <a href="https://github.com/Gnanasambasivarao">
