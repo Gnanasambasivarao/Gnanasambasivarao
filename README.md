@@ -10,16 +10,16 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gnanasambasivaraothota-365815314">
+  <a href="www.linkedin.com/in/gnanasambasivarao-thota-365815314">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="https://github.com/ThotaGnanasambasivaraoDS">
+  <a href="https://github.com/Gnanasambasivarao">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
-  <a href="mailto:thotagnanasambasivarao25@gmail.com">
+  <a mailto="thotagnanasambasivarao25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://github.com/ThotaGnanasambasivaraoDS/DataScienceLearning">
+  <a href="#">
     <img src="https://img.shields.io/badge/Learning_Docs-00C897?style=for-the-badge&logo=bookstack&logoColor=white"/>
   </a>
 </p>
