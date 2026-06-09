@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C897&height=200&section=header&text=Thota%20Gnana%20Sambasivarao&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1A1A6E,100:6C3483&height=250&section=header&text=Thota%20Gnana%20Sambasivarao&fontSize=52&fontColor=E8DAFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Scientist%20%7C%20Turning%20Data%20into%20Decisions&descSize=18&descAlignY=62&descAlign=50"/>
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C897&center=true&vCenter=true&random=false&width=750&height=100&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Data+Analysis+%26+Machine+Learning+%F0%9F%A4%96;Problem+Solver+with+Data+%F0%9F%94%8D;Python+%7C+SQL+%7C+Visualization+%F0%9F%90%8D;Turning+Raw+Data+into+Insights+%F0%9F%9A%80;Building+Data-Driven+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=CDB4FF&center=true&vCenter=true&random=false&width=850&height=100&lines=Aspiring+Data+Scientist;Data+Analytics+%26+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions;Transforming+Data+Into+Insights" alt="Typing SVG" />
+
 
 <br>
 
@@ -165,5 +165,6 @@ gnana = {
   </picture>
 </div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C897,100:0A84FF&height=120&section=footer"/>
+<!-- Footer --><!-- Animated Footer -->
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1A1A6E,100:6C3483&height=150&section=footer"/>
