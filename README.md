@@ -144,13 +144,13 @@ gnana = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThotaGnanasambasivaraoDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C897&icon_color=00C897&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ThotaGnanasambasivaraoDS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C897&ring=00C897&fire=FF6B6B&currStreakLabel=00C897" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gnanasambasivarao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C897&icon_color=00C897&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Gnanasambasivarao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C897&ring=00C897&fire=FF6B6B&currStreakLabel=00C897" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThotaGnanasambasivaraoDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C897&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThotaGnanasambasivaraoDS&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00C897&line=0A84FF&point=FFFFFF&area=true&area_color=00C897" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanasambasivarao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C897&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gnanasambasivarao&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00C897&line=0A84FF&point=FFFFFF&area=true&area_color=00C897" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
