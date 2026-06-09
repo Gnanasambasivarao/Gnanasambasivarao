@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C897&height=200&section=header&text=Gnana%20Sambasiva%20Rao&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C897&height=200&section=header&text=Thota%20Gnana%20Sambasivarao&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C897&center=true&vCenter=true&random=false&width=750&height=100&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Data+Analysis+%26+Machine+Learning+%F0%9F%A4%96;Problem+Solver+with+Data+%F0%9F%94%8D;Python+%7C+SQL+%7C+Visualization+%F0%9F%90%8D;Turning+Raw+Data+into+Insights+%F0%9F%9A%80;Building+Data-Driven+Solutions+%F0%9F%8C%90" alt="Typing SVG" />
@@ -80,7 +80,6 @@ gnana = {
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 #### 📊 Data Analysis & Visualization
