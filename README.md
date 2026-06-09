@@ -10,7 +10,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/gnanasambasivarao-thota-365815314">
+  <a href="https://www.linkedin.com/in/gnanasambasivarao-thota-365815314/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   <a href="https://github.com/Gnanasambasivarao">
@@ -144,13 +144,14 @@ gnana = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gnanasambasivarao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C897&icon_color=00C897&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Gnanasambasivarao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C897&ring=00C897&fire=FF6B6B&currStreakLabel=00C897" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gnanasambasivarao&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gnanasambasivarao&theme=tokyonight&utcOffset=5.5" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gnanasambasivarao&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanasambasivarao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C897&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gnanasambasivarao&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00C897&line=0A84FF&point=FFFFFF&area=true&area_color=00C897" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=Gnanasambasivarao&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gnanasambasivarao&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
